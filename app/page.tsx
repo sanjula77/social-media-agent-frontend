@@ -20,7 +20,7 @@ export default function Home() {
     <main className="min-h-screen bg-slate-100 text-gray-800 px-4 py-10">
       <div className="max-w-3xl mx-auto">
         <h1 className="text-4xl font-bold text-center text-indigo-700 mb-10">
-          🦙 Social Media Agent
+          Social Media Agent
         </h1>
 
         <div className="bg-white p-6 rounded-2xl shadow-xl mb-8">
